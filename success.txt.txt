@@ -1,7 +1,8 @@
 this is the 1st file 
-
-lin1 
-line 2
+the new line are added to this file
+lin1 2
+line 24
 line 3
+a new line is injected
 lin 4
 line 5
