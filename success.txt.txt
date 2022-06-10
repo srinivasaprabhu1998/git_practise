@@ -1,0 +1,7 @@
+this is the 1st file 
+
+lin1 
+line 2
+line 3
+lin 4
+line 5
